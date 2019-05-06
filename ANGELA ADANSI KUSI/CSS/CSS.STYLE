@@ -1,0 +1,69 @@
+body{
+	font-family: Verdana;
+	color: #000000;
+	background: #fdf5e6;
+}
+h1{
+	font-family: Arial;
+	font-style: italic;
+	color: green;
+	background: yellow;
+	position: absolute;
+	top: 400px;
+	left: 20px;
+	width: 100px;
+	height: 100px;
+	z-index: 1;
+}
+h2{
+	font-family: Courier;
+	font-style: bold;
+	color: yellow;
+	background: green;
+	position: absolute;
+	top: 500px;
+	left: 0px
+	width: 200px;
+	height: 200px;
+	z-index: 2;
+}
+h3{
+	font-family: Verdana;
+	font-size: 16pt;
+	color: white;
+	background: blue;
+	position: absolute;
+	top: 300px;
+	left: 50px;
+	width: 300px;
+	height: 100px;
+
+}
+h4{
+	font-family: Comic Sans MS;
+	font-size: 20pt;
+	color: white;
+	background: black;
+	position: absolute;
+	top: 200px;
+	left: 20px;
+	width: 400px;
+	height: 100px;
+}
+h5{
+	font-family: Arial;
+	color: green;
+	font-style: bold;
+	position: absolute;
+	top: 100px;
+	left: 150px;
+	width: 500px;
+	height: 50px;
+}
+.set1{
+	text-indent: 10pt;
+}
+#nifty{
+	text-decoration: line-through;
+	color: #ff8c00;
+}

@@ -1,0 +1,109 @@
+body{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+div{
+	background-color: yellow;
+}
+.left{
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+	background-color: yellow;
+	margin-bottom: 2%;
+}
+.middle{
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+	background-color: yellow;
+	margin-bottom: 2%;
+}
+.right{
+	float: right;
+	width: 30%;
+	background-color: yellow;
+	margin-bottom: 2%;
+}
+.border{
+	border: thin;
+	border-style: solid;
+	border-color: black;
+}
+p{
+	font-family: arial;
+	margin: 3%;
+}
+br.clear{
+	clear: both;
+}
+div.pic1{
+	width: 20%;
+	float: left;
+	margin-right: 6%;
+}
+div.pic2{
+	width: 20%;
+	float: left;
+	margin-right: 6%;
+}
+div.pic3{
+	width: 20%;
+	float: left;
+	margin-right: 6%;
+}
+div.pic4{
+	width: 20%;
+	float: right;
+}
+#pic1{
+	width: 100%;
+	margin-bottom: -3%;
+	border-radius: 15%;
+}
+#pic2{
+	width: 100%;
+	margin-bottom: -3%;
+	border-radius: 15%;
+}
+#pic3{
+	width: 100%;
+	margin-bottom: -3%;
+	border-radius: 15%;
+}
+#pic4{
+	width: 100%;
+	margin-bottom: -3%;
+	border-radius: 15%;
+}
+div.picborder{
+	border-color: red;
+	border-style: solid;
+	border-width: thin;
+	border-radius: 15%;
+}
+div.teaching{
+	width: 55%;
+	float: left;
+	margin-right: 5%;
+}
+div.research{
+	width: 40%;
+	float: right;
+	background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, #26E378),
+	color-stop(1, #BFBC5E),
+	color-stop(1, #7BE7C3)
+);
+background-image: -o-linear-gradient(bottom, #26E378 0%, #BFBC5E 100%, #7BE7C3 100%);
+background-image: -moz-linear-gradient(bottom, #26E378 0%, #BFBC5E 100%, #7BE7C3 100%);
+background-image: -webkit-linear-gradient(bottom, #26E378 0%, #BFBC5E 100%, #7BE7C3 100%);
+background-image: -ms-linear-gradient(bottom, #26E378 0%, #BFBC5E 100%, #7BE7C3 100%);
+background-image: linear-gradient(to bottom, #26E378 0%, #BFBC5E 100%, #7BE7C3 100%);
+border-radius: 5%;
+}

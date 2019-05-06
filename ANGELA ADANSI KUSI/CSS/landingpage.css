@@ -1,0 +1,35 @@
+body{
+	background-image: url("../IMAGES/angie.jpeg");
+	background-repeat: none;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+.angela{
+	background-color: green;
+}
+.list{
+	list-style-type: none;
+}
+li{
+	padding: 10px;
+}
+.nana{
+	color: red;
+}
+.mavis{
+	color: yellow;
+
+}
+.wendy{
+	color: green;
+}
+.abena{
+	color: blue;
+}
+.nancy{
+	color: purple;
+}
+img{
+	width: 500pt;
+	height: 350pt;
+}

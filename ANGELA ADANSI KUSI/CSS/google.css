@@ -1,0 +1,33 @@
+a{
+	text-decoration: none;
+	padding: 20px;
+}
+.angie{
+	float: left;
+}
+.bee{
+	float: right;
+}
+.nana{
+	text-align: center;
+}
+.lid{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 170px;
+}
+img{
+	width: 200px;
+	height: 200px;
+	margin-top: 100px;
+	margin-left: 550px;
+}
+.maame{
+	width: 600px;
+	border-radius: 25px;
+	height: 25px;
+}
+.bumble{
+	background-color: rgb(240,240,240);
+	padding: 10px;
+}

@@ -1,0 +1,76 @@
+.title{
+	background-color: yellow;
+	text-align: center;
+}
+.menu{
+	
+	width:150px;
+}
+.parent{
+	display: flex;
+}
+.main{
+ width: 1200px;
+ 
+
+}
+.child{
+	border-left : 3px solid green;
+	 padding-left:5px;
+}
+.side{
+ width:200px;
+ height: 150px;
+ text-align: right;
+ border: 2px solid green;
+ border-style: dotted;
+ padding: 5px;
+}
+.curri{
+	border: 1px solid black;
+	width: 650px;
+	height: 450px;
+	margin: 10px;
+}
+.date{
+	font-weight: bold;
+	padding-right:40px;
+
+}
+.email{
+	text-align: center;
+}
+.lydia_bg{
+	background-color: #D3D3D3;
+	margin-top: -16px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.lydia{
+font-family: Georgia;
+color: blue;
+text-align: center;
+font-style: bold;
+font-size: 24px;
+letter-spacing: 1.6em;
+word-spacing: 2em;
+}
+.con_malt{
+	margin-top:40px;
+	margin-left: 10px;
+
+}
+.malt{
+	font-family: Georgia;
+	color: #8B0000;
+	font-size: 18px;
+	letter-spacing: 1.4em;
+	
+}
+.label{
+	font-style: italic;
+}
+body{
+	background-color: #fed3d2;
+}

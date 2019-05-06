@@ -1,0 +1,31 @@
+.title{
+	background-color: yellow;
+	text-align: center;
+}
+.menu{
+	width:150px;
+}
+.parent{
+	display: flex;
+}
+.main{
+ width: 1200px;
+ }
+.child{
+	border-left : 3px solid green;
+	 padding-left:5px;
+}
+.side{
+ width:200px;
+ height: 150px;
+ text-align: right;
+ border: 2px solid green;
+ border-style: dotted;
+ padding: 5px;
+}
+.date{
+	font-weight: bold;
+}
+.email{
+	text-align: center;
+}
